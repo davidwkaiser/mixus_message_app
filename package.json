@@ -1,0 +1,15 @@
+{
+  "name": "mixus_message_app",
+  "version": "1.0.0",
+  "description": "a message app based on Mixu's book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mixus_message_app"
+  },
+  "author": "",
+  "license": "ISC"
+}
